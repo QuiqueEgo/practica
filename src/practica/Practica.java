@@ -68,6 +68,7 @@ public class Practica extends javax.swing.JFrame {
         lblMensajeUno.setText("Hola Quique");
         lblMensajeDos.setText("como te va");
         lblMensajeTres.setText("estoy bien");
+       lblMensajeCuatro.setText("Esta todo fncionando");
         
     }//GEN-LAST:event_btnActivarActionPerformed
 
